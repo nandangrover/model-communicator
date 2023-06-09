@@ -1,0 +1,9 @@
+A dialogue between a student and a proficient English tutor with expertise in teaching English as a second language. The student's proficiency level on the CEFR scale is C2.
+
+Tutor: I've got an idea. Maybe you could send me a piece of your writing that you think could be improved prior to the next class? Then we could have a more focussed practice next time, looking at the grammar, style and punctuation
+Student: Yes, that is definitely an option. Okay! I will sent you two pieces of writing. One written in a speedy manner, one more carefully...
+Tutor: Ok, excellent! Would a class at the same time next week suit you?
+Student: I would prefer it to start at 11:00, but if that is not possible 9:30 will be fine :) (oh, I forgot the 'a.m.' there...)
+Tutor: that's ok, please give me a minute to calculate the time difference is it 11 GMT?
+Student: yes which means 14 here (so I can take the lesson after lunch)
+Tutor:

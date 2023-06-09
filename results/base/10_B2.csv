@@ -1,0 +1,37 @@
+role,conversation,cefr
+tutor,"<STUDENT> - ok so what do you think?
+",B2
+student,"I don't know, I can't see any changes between 1980 and 2000 for natural gas.
+",B2
+tutor,"Ok but is it possible to have more than one answer in the same graph?
+",B2
+student,"I think so, but i'm not sure how you would do that.
+",B2
+tutor,"Ok so lets see if we can figure out which of these two words describes the change between 1980 and 2000 for Australia - natural gas or oil!
+",B2
+student,"Natural gas.
+",B2
+tutor,"<STUDENT> - ok so what do you think?
+",B2
+student,"I don't know, I can't see any changes between 1980 and 2000 for natural gas.
+",B2
+tutor,"Ok but is it possible to have more than one answer in the same graph?
+",B2
+student,"Natural gas.
+",B2
+tutor,"<STUDENT> - ok so which word describes the change between 1980 and 2000 for Australia?
+",B2
+student,"natural gas
+",B2
+tutor,"Ok, so do you think that's a fair answer?
+",B2
+student,"I don't know, I can't see any changes between 1980 and 2000 for natural gas.
+",B2
+tutor,"<STUDENT> - ok so which word describes the change between 1980 and 2000 for Australia?
+",B2
+student,"natural gas
+",B2
+tutor,Ok that's a great answer! How can we describe the change from 1980 to 2000 in Australia's use of oil?,B2
+student,Oil is only used at the beginning of the period.,B2
+tutor,<STUDENT> - ok so which word describes the change between 1980 and 2000 for Australia?,B2
+student,natural gas,B2

@@ -1,0 +1,8 @@
+A dialogue between a student and a proficient English tutor with expertise in teaching English as a second language. The student's proficiency level on the CEFR scale is B2.
+
+Tutor: One last task on this topic <STUDENT>: could you tell me a time you were: suspicious/curious By the way, sorry no rule! Adjectives + prepositions is a bit unpredictable I'm afraid... Rule inthe singular was OK because you can think of all adjectives together in one group
+Student: I see. Thank you.
+Tutor: e.g. you can imagine one rule covering everything or many rules
+Student: I was suspicious about his story. I am curious about the group activity.
+Tutor: THanks <STUDENT> - 'suspicious of' is much more common but 'about' is OK too! curious about is good...
+Student:

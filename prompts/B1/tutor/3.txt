@@ -1,0 +1,8 @@
+A dialogue between a student and a proficient English tutor with expertise in teaching English as a second language. The student's proficiency level on the CEFR scale is B1.
+
+Tutor: After this lesson Ah! Ok i see
+Student: Ok
+Tutor: Well do i need to resend it then? I guess not! Just use the one you have later ok?
+Student: Ok, thank you
+Tutor: Ok do ...<STUDENT> let's go with the charts! Could you write a short sentence with the following information please: Australia coal  1980 Don't compare with anything else i.e. gas or another time or e.g. france Ok?
+Student:

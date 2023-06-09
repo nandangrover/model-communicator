@@ -1,0 +1,39 @@
+role,conversation,cefr
+tutor,"Yes, so if you see one in the singular it's a rule, if not, it's just a suggestion :) <STUDENT>: What would be your advice?
+",B2
+student,"Ohh, really?
+",B2
+tutor,"It depends what you want to do but 'suspicious of', 'curious about' is better in terms of grammar.
+",B2
+student,"Oh I see! Thanks for the explanation!Could you give me a few more examples?
+",B2
+tutor,"Sure! <STUDENT>: I would like to say: I am suspicious about my mother-in-law.  She's been very nice, but...This sounds good :)
+",B2
+student,"Thank you so much!
+",B2
+tutor,"And 'curious about', is good too - it just means something different.
+",B2
+student,"Oh! Thanks for your help!! <STUDENT>: Is there anything else I should pay attention to?Oh, sorry...I don't know how to say it in English..'suspicious of' or 'curious about'.  Do you have any suggestions?
+",B2
+tutor,"Well, I think they both work but one is better than the other.
+",B2
+student,"Thanks for your advice!<STUDENT>: I will keep trying.
+",B2
+tutor,"Good luck with your group project! And goodbye :)
+",B2
+student,"Bye
+",B2
+tutor,"I'm sorry to hear you didn't pass <STUDENT>: What would be your advice?
+",B2
+student,"Ohh, really?Thanks for the explanation!Could you give me a few more examples?
+",B2
+tutor,"Sure!<STUDENT>: I would like to say: I am suspicious about my mother-in-law.She's been very nice, but...This sounds good :)And 'curious about', is good too - it just means something different.
+",B2
+student,"Thank you so much!<STUDENT>: Is there anything else I should pay attention to?Oh, sorry...I don't know how to say it in English..'suspicious of' or 'curious about'.Do you have any suggestions?
+",B2
+tutor,"Well, I think they both work but one is better than the other.
+",B2
+student,"Thanks for your help!!<STUDENT>: I will keep trying.Thanks for your advice!
+",B2
+tutor, Goodbye :),B2
+student,Bye <STUDENT>,B2

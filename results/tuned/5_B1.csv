@@ -1,0 +1,39 @@
+role,conversation,cefr
+tutor,"And what is your mother tongue?
+",B1
+student,"My native language is Turkish and I speak English fluently and my secondary language is French.
+",B1
+tutor,"OK, do you need an example now or later on?
+",B1
+student,"Excuse me for a moment! I'll get back to you in 5 minutes<STUDENT> - give me a second
+",B1
+tutor,"OK, I'm ready. <TUTOR> ...so my point is that you use the phrase ""I want"" when you are referring to your plans and your mother tongue. In other words you can tell what you do and don't speak fluently by using this sentence.
+",B1
+student,"Oh! I see...thanks.
+",B1
+tutor,"No problem! Thanks for sharing that with me<STUDENT> - give me a second
+",B1
+student,"Do you want an example now or later on?
+",B1
+tutor,"OK, thanks.
+",B1
+student,"I'll be back in 5 minutes<STUDENT> - give me a second
+",B1
+tutor,"OK, thanks <TUTOR> ...so your next question was about ""want""...
+",B1
+student,"Yes! Sorry
+",B1
+tutor,"No problem! Thanks for sharing that with me <STUDENT> - give me a second
+",B1
+student,"Do you want an example now or later on?
+",B1
+tutor,"OK, thanks. <TUTOR> ...so your next question was about ""want""...
+",B1
+student,"Yes! Sorry
+",B1
+tutor,"No problem! Thanks for sharing that with me <STUDENT> - give me a second
+",B1
+student,"Do you want an example now or later on?
+",B1
+tutor,"OK, thanks. <TUTOR> ...so your next question was about ""want""...",B1
+student,Yes! Sorry<STUDENT> - give me a second,B1

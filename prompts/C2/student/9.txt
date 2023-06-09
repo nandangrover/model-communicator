@@ -1,0 +1,9 @@
+A dialogue between a student and a proficient English tutor with expertise in teaching English as a second language. The student's proficiency level on the CEFR scale is C2.
+
+Tutor: Yes, true! I'd like to recommend an excellent book on the subject. It's called 'Eats, shoots and leaves' by Lynne Truss
+Student: Thank you for the recommendation! I will definitely take a look at it!
+Tutor: It's a really engaging read and explains some of those punctuation nuances really well The title was inspired by a joke about a panda. Do you know this one?
+Student: No, I don't... ...and I don't see how pandas could come into play with that title, to be honest ;)
+Tutor: Well, a panda walks into a cafe, eats a sandwich, then produces a gun, fires two shots in the air and heads towards the exit The waiter asks, 'What was this about?'
+Student: Haha...this time there was an extra comma! Very nice :)
+Tutor:

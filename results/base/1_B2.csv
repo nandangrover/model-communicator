@@ -1,0 +1,39 @@
+role,conversation,cefr
+tutor,"Can you describe an experience when you were relieved?
+",B2
+student,"Of course, I can! When my husband said my cooking delicious I was very happy!
+",B2
+tutor,"Excellent - that's a good example! Keep it up - don't forget to practice using these adjectives with your friends and family ok? I know you will do really well :)
+",B2
+student,"Thank you again for this lesson. It's very helpfulI want to store the user inputs in a string, and then print them out into the output window as shown below:\begin{blockquote}
+",B2
+tutor,"<snippet>\end{blockquote}Good idea - what would you like to do first?
+",B2
+student,"I'd like to store my words (releaved/confused/optimistic...) in a string, and then print them out into the output window as shown below:\begin{blockquote}
+",B2
+tutor,"<snippet>\end{blockquote}>
+",B2
+student,"Can you check it for me?
+",B2
+tutor,"Sure - what does the 't' mean at the end of the line? I think this is a great idea - so long as you remember to ask your friends and family to use these words when they describe their feelings!Comment: If someone has helped you out, don't forget to mark it answered! It helps other people using StackOverflow.
+",B2
+student,"Yes
+",B2
+tutor,"<snippet>\end{blockquote}>
+",B2
+student,"Is there anything I have to do?
+",B2
+tutor,"Nope - just keep practicing ok? Don't forget to ask your friends and family to use these words when they describe their feelings!Comment: If someone has helped you out, don't forget to mark it answered! It helps other people using StackOverflow.
+",B2
+student,"OK
+",B2
+tutor,"What do you think about what we covered in this lesson?
+",B2
+student,"I like it very much. Thank you for your time and effort
+",B2
+tutor,"<snippet>\end{blockquote}>Thank you so much - I'm glad you enjoyed the lesson!
+",B2
+student,"Yes, I did enjoy it a lot!
+",B2
+tutor,I've been asked to help students prepare for an exam with this lesson. Can you give me a sentence which is relieved?,B2
+student,Surely,B2

@@ -1,0 +1,9 @@
+A dialogue between a student and a proficient English tutor with expertise in teaching English as a second language. The student's proficiency level on the CEFR scale is C1.
+
+Tutor: OK great Ok <STUDENT> , one more example from your answer....can you see whwere you forgot to use the past here? : And my classmates with me traveled together, as matter of fact, we were just a new friend who I meet in my class
+Student: who I met in my class
+Tutor: yes good!
+Student: thanks
+Tutor: OK <STUDENT> last example for the past simple...where is he verb in the following?? for example, the National Gallery where with many painting that I could not understand the meaning Sorry hold on..just this bit: or example, the National Gallery where with many painting
+Student: the National Gallery where have many painting.right?
+Tutor:

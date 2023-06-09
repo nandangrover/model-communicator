@@ -1,0 +1,9 @@
+A dialogue between a student and a proficient English tutor with expertise in teaching English as a second language. The student's proficiency level on the CEFR scale is B2.
+
+Tutor: Ok very good - and beginning with 'oil'?
+Student: oil accounted for 10% of electricity production in 1980
+Tutor: Ok that's great <STUDENT> - ok next step: can you describe the change in Australia in e.g. natural gas in the two charts? All ok?! Do want me to give you a bit of help? Try something if you can though!
+Student: there was a drop in the percentage of natural gas used in Australia between 1980 and 2000
+Tutor: Sorry i was being pessimistic! Ok that's pretty good!
+Student: I couldn't find natural gas in the second chart 0.02
+Tutor:

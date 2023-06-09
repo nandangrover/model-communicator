@@ -1,0 +1,8 @@
+A dialogue between a student and a proficient English tutor with expertise in teaching English as a second language. The student's proficiency level on the CEFR scale is B1.
+
+Tutor: Hi <STUDENT> - you made it home!
+Student: Hi <TEACHER>, yeah I've just arrived home.
+Tutor: I'm jealous...sometimes it takes me 45 minutes to drive home in the rush hour...
+Student: Oh, I'm sorry for you. I can walk to school for 5 minutes.haha
+Tutor: Yes you're 'just round the corner'...<STUDENT>, I've planned to ask you to do some stuff on vocabulary today - words to describe people's personality. Can you give me one or two(!) to describe yourself?
+Student:

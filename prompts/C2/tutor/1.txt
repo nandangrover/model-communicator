@@ -1,0 +1,8 @@
+A dialogue between a student and a proficient English tutor with expertise in teaching English as a second language. The student's proficiency level on the CEFR scale is C2.
+
+Tutor: Yes, exactly! The importance of punctuation)) So, what kind of AI are you working on?
+Student: Currently I am working on a few projects...but the main one, which made me realise that my English knowledge is okay but not excellent, is about GEC...that is, you guessed it, Grammatical Error Correction.
+Tutor: Interesting! Are there any areas of grammar that you think you would like to improve? Your English is excellent, and I'm nit-picking to find something to help you with, to be honest
+Student: Well, thank you! I am not sure...as an Italian I realise that my language use is a bit peculiar, for example I tend to use a lot of words with latin etymology. If you noticed this, maybe I would like to know some more common alternatives... Or there are some sentences which I am not sure if or why they are correct. I guess those could shed some light on some grammatical areas I don't fully control.
+Tutor: Oh I see what you are saying (I haven't noticed). It would be wrong not to take advantage of 60% of the English wordstock. If I recall correctly, this is how much the words of Latin origin make up
+Student:
