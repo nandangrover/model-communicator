@@ -18,8 +18,7 @@ cd alpaca-lora
 ```
 
 ##### Step 2: Get LLaMA weights
-LLaMA wights can be found at [Google Drive Folder](https://drive.google.com/drive/folders/1bCSItrWGCvP7vLmvWOhaJ3Wo0lLnGefs?usp=sharing) under the chatbot/llama folder.
-Put your downloaded weights in a folder called unconverted-weights. The folder hierarchy should look something like this:
+Put your downloaded LLaMA weights in a folder called unconverted-weights. The folder hierarchy should look something like this:
 ```
 unconverted-weights
 ├── 7B
@@ -62,11 +61,8 @@ cog run python finetune.py
 ```
 This takes 3.5 hours on a 40GB A100 GPU, and more than that for GPUs with less processing power.
 
-
-Google drive folder with all of the assets required to run the notebook and model communicator is present in this [Google Drive Folder](https://drive.google.com/drive/folders/1bCSItrWGCvP7vLmvWOhaJ3Wo0lLnGefs?usp=sharing). It contains the finetuned alpaca models as well.
-
 #### Model Communicator
-This subsystem is responsible for communication between fine-tuned Student and Tutor models. It also enables communication between base student and Tutor model. The bin folder contains binaries extracted from [llama.cpp](https://github.com/ggerganov/llama.cpp), which helped quantize the tuned Alpaca models. In order to run the script add the base, student and tutor models in models directory. The models itself can be found in the [Google Drive Folder](https://drive.google.com/drive/folders/1bCSItrWGCvP7vLmvWOhaJ3Wo0lLnGefs?usp=sharing) under the chatbot/alpaca-base, chatbot/alpaca-student and chatbot/alpaca-tutor folders respectively.
+This subsystem is responsible for communication between fine-tuned Student and Tutor models. It also enables communication between base student and Tutor model. The bin folder contains binaries extracted from [llama.cpp](https://github.com/ggerganov/llama.cpp), which helped quantize the tuned Alpaca models. In order to run the script add the base, student and tutor models in models directory.
 
 To run the script, use this command:
 
